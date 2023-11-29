@@ -214,7 +214,7 @@ input{
     align-content: center;
     border-top-left-radius: 8px;
     border-bottom-left-radius: 8px;
-    /* display: none; */
+    display: none;
 }
 .colors .circle{
     height: 18px;
@@ -262,5 +262,5 @@ input{
     background: #795548;
 }
 .colors.close{
-    display: none;
+    display: flex;
 }
